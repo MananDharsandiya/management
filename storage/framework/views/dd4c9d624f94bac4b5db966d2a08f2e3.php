@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\management\resources\views/emails/customer_message.blade.php ENDPATH**/ ?>
